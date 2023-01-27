@@ -16,4 +16,4 @@ First, basic inferences were made with exploratory data analysis methods. Afterw
 
 In accordance with the findings, the data set was divided into training and testing and modeling was done. First, estimation was made on the arrival delay, then according to the delay_type categorical values created according to the delay time intervals.Then, predictions were made with 'Lasso', 'Linear Regression', 'Ridge', 'Random forest Regressor', 'Decision Tree Regressor', 'Boost regression', and 'Bagged Regression' methods. In order to systematically analyze the models and make comparisons with each other, the Box Whisker Plot method proposed by Katardjiev, McKeever, and Andreas Hamfelt (2019) was applied to make model comparisons.
 
-![Dashboard](dashboard.png)
+![Comparison](ml.JPG)
